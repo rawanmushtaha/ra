@@ -1,0 +1,35 @@
+@font-face {
+    font-family: "AD-Rsail.otf";
+    src: url("../font/AD-Rsail.otf");
+}
+@font-face {
+    font-family: "JannaLT-Regular.ttf";
+    src: url("../font/JannaLT-Regular.ttf");
+}
+
+
+
+body {
+    direction: rtl;
+    background-color: #ffffff;
+    font-family: "JannaLT-Regular.ttf";
+
+
+}
+.cont{
+    padding-right: 40px;
+}
+
+.par{
+    font-size: 20px;
+    margin:  40px 50px;
+}
+
+.radio-inline input[type=radio] {
+    position: absolute;
+    height: 107px;
+    width: 27px;
+: ;
+    margin-right: -39px;
+: ;
+}
